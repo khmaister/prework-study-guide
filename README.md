@@ -4,10 +4,10 @@
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+- What was your motivation? To have an accessible Study Guide
+- Why did you build this project? to have access to this Studay guide as a template but also a Guide.
+- What problem does it solve? Teaching and acting as resource material for basic coding languages.
+- What did you learn? The structure and 
 
 ## Table of Contents (Optional)
 
